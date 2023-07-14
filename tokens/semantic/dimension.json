@@ -1,0 +1,40 @@
+{
+  "semantic": {
+    "actions": {
+      "small": {
+        "space-around": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "24px",
+          "type": "dimension"
+        }
+      },
+      "medium": {
+        "space-around": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "24px",
+          "type": "dimension"
+        }
+      },
+      "large": {
+        "space-around": {
+          "value": "24px",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "24px",
+          "type": "dimension"
+        }
+      },
+      "border-radius": {
+        "value": "24px *{border-radius.multiplier}",
+        "type": "dimension"
+      }
+    }
+  }
+}

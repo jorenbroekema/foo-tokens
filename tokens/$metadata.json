@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "global/color",
+    "global/dimension",
+    "global/typography",
+    "semantic/typography",
+    "semantic/color",
+    "semantic/dimension",
+    "brands/Knight",
+    "brands/Samurai",
+    "brands/Viking",
+    "comp/button",
+    "breakpoint/@1280px",
+    "breakpoint/@1920px",
+    "breakpoint/@360px",
+    "breakpoint/@920px",
+    "mode/dark"
+  ]
+}

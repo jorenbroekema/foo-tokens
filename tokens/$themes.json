@@ -1,0 +1,98 @@
+[
+  {
+    "id": "53293e210043a46651f92945c1acf9212ed896c1",
+    "name": "global",
+    "group": "Global",
+    "selectedTokenSets": {
+      "global/color": "source",
+      "global/dimension": "source",
+      "global/typography": "source",
+      "semantic/typography": "source",
+      "comp/button": "enabled",
+      "semantic/color": "source",
+      "semantic/dimension": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "48cf089ec8dfe554e11d52fd9db5452f225fbbf8",
+    "name": "Samurai",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "brands/Samurai": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "ea621c2c565b665ec997f48146bb7b5656e24889",
+    "name": "Viking",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "brands/Viking": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "46830f97d43c5a36e2fe55837041415b7ef06007",
+    "name": "Knight",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "brands/Knight": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "954c6f7c371ba6e4b1b4656f98bd6d9f8d4ce273",
+    "name": "@360px",
+    "group": "Breakpoint",
+    "selectedTokenSets": {
+      "breakpoint/@360px": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "cd2c88b09a6ecc9c6dcd1491fe7615e3bbf65681",
+    "name": "@920px",
+    "group": "Breakpoint",
+    "selectedTokenSets": {
+      "breakpoint/@920px": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "89db2f7b56878e7bfd87b709c5d51f83d8cbf5d2",
+    "name": "@1280px",
+    "group": "Breakpoint",
+    "selectedTokenSets": {
+      "breakpoint/@1280px": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f2751259b36a2d864ed2cb5523b2420aee0594d7",
+    "name": "@1920px",
+    "group": "Breakpoint",
+    "selectedTokenSets": {
+      "breakpoint/@1920px": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4f016190225fc2d241dab1207c23931afe61d613",
+    "name": "light",
+    "group": "Mode",
+    "selectedTokenSets": {
+      "global/color": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "01798ad34b9ac9bee9b21041fbd16e1ad94e5ff6",
+    "name": "dark",
+    "group": "Mode",
+    "selectedTokenSets": {
+      "mode/dark": "source"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
