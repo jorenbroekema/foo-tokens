@@ -5,7 +5,6 @@
     "group": "Global",
     "selectedTokenSets": {
       "global/color": "source",
-      "global/dimension": "source",
       "global/typography": "source",
       "semantic/typography": "source",
       "comp/button": "enabled",
