@@ -91,7 +91,7 @@
   },
   "paragraph-spacing": {
     "base": {
-      "value": "{dimension.fluid.f0}",
+      "value": "24px",
       "type": "paragraphSpacing"
     },
     "none": {

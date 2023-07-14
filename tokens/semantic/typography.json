@@ -137,7 +137,7 @@
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{semantic.font-weight.title}",
           "lineHeight": "{line-height.base}",
-          "fontSize": "{dimension.dynamic.f1}",
+          "fontSize": "24px",
           "letterSpacing": "{letter-spacing.base}",
           "paragraphSpacing": "{paragraph-spacing.base}",
           "textDecoration": "{text-decoration.none}",
@@ -277,59 +277,59 @@
     },
     "font-size": {
       "display-1": {
-        "value": "{dimension.dynamic.f8}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "display-2": {
-        "value": "{dimension.dynamic.f7}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "display-3": {
-        "value": "{dimension.dynamic.f6}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "headline-1": {
-        "value": "{dimension.dynamic.f5}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "headline-2": {
-        "value": "{dimension.dynamic.f4}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "headline-3": {
-        "value": "{dimension.dynamic.f3}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "title-1": {
-        "value": "{dimension.dynamic.f2}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "title-2": {
-        "value": "{dimension.dynamic.f1}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "title-3": {
-        "value": "{dimension.dynamic.f0}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "body-1": {
-        "value": "{dimension.dynamic.f0}",
+        "value": "24px",
         "type": "fontSizes"
       },
       "body-2": {
-        "value": "{dimension.dynamic.f-1}",
+        "value": "24px}",
         "type": "fontSizes"
       },
       "body-3": {
-        "value": "{dimension.dynamic.f-2}",
+        "value": "24px}",
         "type": "fontSizes"
       },
       "caption": {
-        "value": "{dimension.dynamic.f-2}",
+        "value": "24px}",
         "type": "fontSizes"
       },
       "lead": {
-        "value": "{dimension.dynamic.f2}",
+        "value": "24px",
         "type": "fontSizes"
       }
     },
