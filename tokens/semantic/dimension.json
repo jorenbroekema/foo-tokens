@@ -1,0 +1,40 @@
+{
+  "semantic": {
+    "actions": {
+      "small": {
+        "space-around": {
+          "value": "{dimension.dynamic.f-3}",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "{dimension.dynamic.f-3}",
+          "type": "dimension"
+        }
+      },
+      "medium": {
+        "space-around": {
+          "value": "{dimension.dynamic.f-2}",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "{dimension.f-3.max}",
+          "type": "dimension"
+        }
+      },
+      "large": {
+        "space-around": {
+          "value": "{dimension.dynamic.f-1}",
+          "type": "dimension"
+        },
+        "space-between": {
+          "value": "{dimension.dynamic.f-3}",
+          "type": "dimension"
+        }
+      },
+      "border-radius": {
+        "value": "{dimension.dynamic.f0} *{border-radius.multiplier}",
+        "type": "dimension"
+      }
+    }
+  }
+}

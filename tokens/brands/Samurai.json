@@ -1,0 +1,44 @@
+{
+  "primary": {
+    "base": {
+      "value": "{color.blue.10}",
+      "type": "color"
+    },
+    "weak-1": {
+      "value": "{color.blue.12}",
+      "type": "color"
+    },
+    "strong-1": {
+      "value": "{color.blue.8}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "base": {
+      "value": "{color.green.10}",
+      "type": "color"
+    },
+    "weak-1": {
+      "value": "{color.green.12}",
+      "type": "color"
+    },
+    "strong-1": {
+      "value": "{color.green.8}",
+      "type": "color"
+    }
+  },
+  "on-primary": {
+    "value": "{color.blue.24}",
+    "type": "color"
+  },
+  "on-secondary": {
+    "value": "{color.green.24}",
+    "type": "color"
+  },
+  "border-radius": {
+    "multiplier": {
+      "value": "2",
+      "type": "number"
+    }
+  }
+}

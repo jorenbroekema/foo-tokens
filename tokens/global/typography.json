@@ -1,0 +1,117 @@
+{
+  "font-weight": {
+    "light": {
+      "value": "300",
+      "type": "fontWeight"
+    },
+    "regular": {
+      "value": "400",
+      "type": "fontWeight"
+    },
+    "medium": {
+      "value": "500",
+      "type": "fontWeight"
+    },
+    "semi-bold": {
+      "value": "600",
+      "type": "fontWeight"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeight"
+    },
+    "extra-bold": {
+      "value": "800",
+      "type": "fontWeight"
+    },
+    "heavy": {
+      "value": "900",
+      "type": "fontWeight"
+    }
+  },
+  "line-height": {
+    "100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "120": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "130": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "140": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "150": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "200": {
+      "value": "200%",
+      "type": "lineHeights"
+    },
+    "base": {
+      "value": "{line-height.150}",
+      "type": "lineHeights"
+    }
+  },
+  "text-case": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    }
+  },
+  "text-decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "strike": {
+      "value": "line-through",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "letter-spacing": {
+    "base": {
+      "value": "0",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraph-spacing": {
+    "base": {
+      "value": "{dimension.fluid.f0}",
+      "type": "paragraphSpacing"
+    },
+    "none": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "font-family": {
+    "body": {
+      "value": "Inter",
+      "type": "fontFamilies",
+      "description": "Base"
+    },
+    "primary": {
+      "value": "{font-family.body}",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "{font-family.body}",
+      "type": "fontFamilies"
+    }
+  }
+}

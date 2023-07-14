@@ -1,0 +1,56 @@
+{
+  "primary": {
+    "base": {
+      "value": "{color.purple.10}",
+      "type": "color"
+    },
+    "weak-1": {
+      "value": "{color.purple.12}",
+      "type": "color"
+    },
+    "strong-1": {
+      "value": "{color.purple.8}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "base": {
+      "value": "{color.green.10}",
+      "type": "color"
+    },
+    "weak-1": {
+      "value": "{color.green.12}",
+      "type": "color"
+    },
+    "strong-1": {
+      "value": "{color.green.8}",
+      "type": "color"
+    }
+  },
+  "on-primary": {
+    "value": "{color.purple.24}",
+    "type": "color"
+  },
+  "on-secondary": {
+    "value": "{color.green.24}",
+    "type": "color"
+  },
+  "font-family": {
+    "body": {
+      "value": "Mona Sans",
+      "type": "fontFamilies"
+    }
+  },
+  "border-radius": {
+    "multiplier": {
+      "value": "1",
+      "type": "number"
+    }
+  },
+  "border-radius-copy": {
+    "multiplier": {
+      "value": "1",
+      "type": "number"
+    }
+  }
+}

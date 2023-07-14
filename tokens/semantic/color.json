@@ -1,0 +1,94 @@
+{
+  "semantic": {
+    "actions": {
+      "primary": {
+        "default": {
+          "background-color": {
+            "value": "{primary.base}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{primary.weak-1}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "background-color": {
+            "value": "{primary.strong-1}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-primary}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "default": {
+          "background-color": {
+            "value": "{secondary.base}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{secondary.weak-1}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "background-color": {
+            "value": "{secondary.strong-1}",
+            "type": "color"
+          },
+          "font-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{on-secondary}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
