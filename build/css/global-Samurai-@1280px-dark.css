@@ -211,7 +211,7 @@
   --semanticParagraphSpacingTitle: 0;
   --semanticParagraphSpacingBody: 24px;
   --semanticParagraphSpacingCaption: 0;
-  --semanticActionsPrimaryDefaultBackgroundColor: #278fff;
+  --semanticActionsPrimaryDefaultBackgroundColor: #89c2ff;
   --semanticActionsPrimaryDefaultFontColor: #000914;
   --semanticActionsPrimaryDefaultIconColor: #000914;
   --semanticActionsPrimaryHoverBackgroundColor: #007bff;
@@ -236,7 +236,7 @@
   --semanticActionsLargeSpaceAround: 24px;
   --semanticActionsLargeSpaceBetween: 24px;
   --semanticActionsBorderRadius: 24px *2;
-  --buttonPrimaryDefaultBackgroundColor: #278fff;
+  --buttonPrimaryDefaultBackgroundColor: #89c2ff;
   --buttonPrimaryDefaultFontColor: #000914;
   --buttonPrimaryDefaultIconColor: #000914;
   --buttonPrimaryHoverBackgroundColor: #007bff;
@@ -264,7 +264,7 @@
   --buttonLargeSpaceBetween: 24px;
   --buttonLargeSpaceAround: 24px;
   --buttonBorderRadius: 24px *2;
-  --primaryBase: #278fff;
+  --primaryBase: #89c2ff;
   --primaryWeak1: #007bff;
   --primaryStrong1: #4ea4ff;
   --secondaryBase: #31cd55;
