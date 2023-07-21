@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "global/color",
-    "global/dimension",
     "global/typography",
     "semantic/typography",
     "semantic/color",
